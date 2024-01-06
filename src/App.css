@@ -2,10 +2,6 @@
     padding: 2rem;
 }
 
-body {
-    overflow-x: hidden; 
-}
-
 /* cabeçalho */
 .header {
     text-align: center;
